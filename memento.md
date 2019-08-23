@@ -19,3 +19,9 @@
 * `git stash`
 * `git stash list`
 * `git stash pop`
+
+## Commandes liées aux branches
+
+* `git branch`
+* `git merge`
+* `git rebase`
