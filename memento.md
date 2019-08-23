@@ -13,3 +13,9 @@
 * `git commit --amend`
 * `git reset`
 * `git cherry-pick`
+
+## Commandes sur le stash
+
+* `git stash`
+* `git stash list`
+* `git stash pop`
